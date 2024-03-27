@@ -6,7 +6,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "build:watch": "tsc --watch"
   },
   "keywords": [
     "lottie",
@@ -28,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NorthBei/lottie-play-on-scroll"
+    "url": "git+https://github.com/NorthBei/lottie-play-on-scroll.git"
   }
 }
