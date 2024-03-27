@@ -9,6 +9,7 @@
     "build": "tsc",
     "build:watch": "tsc --watch"
   },
+  "homepage": "https://github.com/NorthBei/lottie-play-on-scroll",
   "keywords": [
     "lottie",
     "scroll",
