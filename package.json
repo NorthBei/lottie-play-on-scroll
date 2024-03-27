@@ -1,0 +1,33 @@
+{
+  "name": "lottie-play-on-scroll",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This package will makes you could play lottie animation by scroll mouse wheel on PC or touch scrolling on mobile devices",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "lottie",
+    "scroll",
+    "wheel",
+    "play"
+  ],
+  "author": "NorthBei",
+  "license": "ISC",
+  "dependencies": {
+    "lottie-web": "^5.12.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "engines": {
+    "node": "^20.12.0",
+    "npm": "^10.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NorthBei/lottie-play-on-scroll"
+  }
+}
