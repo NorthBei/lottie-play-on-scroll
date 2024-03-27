@@ -16,7 +16,7 @@
     "play"
   ],
   "author": "NorthBei",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lottie-web": "^5.12.2"
   },
