@@ -12,8 +12,8 @@ LottiePlayOnScroll could help you to play lottie animation forward/backward base
 2. [Vanilla.js demo](https://northbei.github.io/lottie-play-on-scroll/examples/vanilla/demo/)
 
 ### Example Project
-1. [React.js example](https://northbei.github.io/lottie-play-on-scroll/examples/react/)
-2. [Vanilla.js example](https://northbei.github.io/lottie-play-on-scroll/examples/vanilla/)
+1. [React.js example](https://github.com/NorthBei/lottie-play-on-scroll/tree/master/examples/react)
+2. [Vanilla.js example](https://github.com/NorthBei/lottie-play-on-scroll/tree/master/examples/vanilla)
 
 ## Installation
 
@@ -170,3 +170,12 @@ npm publish
   - [Test local npm packages with ease](https://urre.me/writings/test-local-npm-packages/)
 - lottie files & player
   - [Lottie Generate Code](https://lottiefiles.com/web-player)
+- pjchender
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（0）：專案與套件建置篇](https://pjchender.dev/devops/devops-publish-npm-0/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（1）：發佈前所需的設定檔（package.json）](https://pjchender.dev/devops/devops-publish-npm-1/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（2）：手動 publish 篇](https://pjchender.dev/devops/devops-publish-npm-2/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（3）：整合 Travis CI 和 Github 進行自動化測試](https://pjchender.dev/devops/devops-publish-npm-3/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（4）：semantic-release 自動更新版號](https://pjchender.dev/devops/devops-publish-npm-4/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（5）：semantic-release 自動發佈到 npm](https://pjchender.dev/devops/devops-publish-npm-5/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（6）：semantic-release 的外掛設定與自動產生 CHANGELOG](https://pjchender.dev/devops/devops-publish-npm-6/)
+  - [[Guide] 發佈 npm 套件 - 從手動到自動（7）：Coveralls 的測試覆蓋率與 README 中的標章（code test coverage badge）](https://pjchender.dev/devops/devops-publish-npm-7/)
