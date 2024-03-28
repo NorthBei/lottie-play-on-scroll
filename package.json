@@ -1,6 +1,6 @@
 {
   "name": "lottie-play-on-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "This package will makes you could play lottie animation by scroll mouse wheel on PC or touch scrolling on mobile devices",
   "main": "dist/index.js",
